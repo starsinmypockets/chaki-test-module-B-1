@@ -45,7 +45,8 @@
      *      ]
      */
     "requires": [
-        "chaki-test-module-B"
+        "chaki-test-module-B-1-a",
+        "chaki-test-module-B-1-b"
     ],
 
     /**
